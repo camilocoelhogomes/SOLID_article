@@ -4,6 +4,8 @@
  
 Termos como **SOLID** e **Clean Architeture** são muito comuns de encontrar nas descrições das vagas para desenvolvedores, e que muitas vezes desestimulam pessoas que estão ingressando na carreira, por acharem que não vão dar conta do recado. Então após passar algumas semanas estudando esses termos, decidi fazer esse compilado sobre o que aprendi em relação à esses assuntos tão falados no mercado de desenvolvimento.
 
+Para acompanhar o código dessa implementação, pode-se fazer um fork desse repositório, ou acessá-lo diretamente pelo link <a href='https://dartpad.dev/?id=3bff6330c643bfce8717c6f20245b805'>**DartPad**</a>
+
 ## Menção Honrosa ao Clean Code
  
 Antes de começar a discussão sobre os temas de SOLID e Clean Architeture vale fazer uma menção ao Clean Code. Os compilados de técnicas e como escrever códigos, a importância dos nomes das classes, dos métodos e funções são a base de tudo que vamos construir e debater aqui. Afinal, antes de construir uma boa casa, precisamos de ótimos tijolos.
